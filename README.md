@@ -37,10 +37,3 @@
 ----
 ```
 # ================================================
-# DONATE (BTC) : 16p9y6EstGYcnofGNvUJMEGKiAWhAr1uR8
-# Website : Mmdrza.Com
-# Email : X4@mmdrza.Com
-# Dev.to/Mmdrza
-# Github.com/Pymmdrza
-# ================================================
-```
