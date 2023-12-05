@@ -32,8 +32,3 @@
 
 
 ![reportbtc](https://github.com/Pymmdrza/AllTransactionReportBitcoin/blob/main/reportbtc.png)
-
-[Replit - Bitcoin Reporter](https://replit.com/@Mohammadrezafek/Bitcoin-Reporter-V3)
-----
-```
-# ================================================
