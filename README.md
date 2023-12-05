@@ -20,9 +20,6 @@
 
 `python3 reportBTC_V2.py`
 
-
-![Bitcoin Reporter With Python](https://github.com/Pymmdrza/AllTransactionReportBitcoin/blob/660c15b754fe266fe91d0fc8f15ee39e4a9cbb94/reportBTC2.png 'Bitcoin Reporter With Python')
-
 ----
 
 #### For Running This Reporter Use This Common On Windows (CMD/POWERSHELL/TERMINAL)
